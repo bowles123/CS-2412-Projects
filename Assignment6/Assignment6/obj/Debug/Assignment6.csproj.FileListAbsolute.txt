@@ -1,0 +1,19 @@
+c:\users\itcl\documents\visual studio 2013\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\itcl\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\itcl\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\itcl\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\itcl\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\itcl\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.typingTutorForm.resources
+C:\Users\itcl\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\itcl\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.Cache
+C:\Users\itcl\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\itcl\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\Student\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\Student\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\Student\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\Student\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\Student\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\Student\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.typingTutorForm.resources
+C:\Users\Student\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\Student\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.Cache

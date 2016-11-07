@@ -1,0 +1,19 @@
+c:\users\itcl\documents\visual studio 2013\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\itcl\Desktop\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\itcl\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\itcl\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.CarbonFootprintCalc.resources
+C:\Users\itcl\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\itcl\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+C:\Users\itcl\Desktop\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\itcl\Desktop\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\itcl\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\itcl\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\Student\Desktop\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\Student\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\Student\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\Student\Desktop\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\Student\Desktop\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\Student\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.CarbonFootprintCalc.resources
+C:\Users\Student\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\Student\Desktop\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
